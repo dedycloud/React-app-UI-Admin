@@ -19,7 +19,7 @@ npm start
 
 ## image 
 
-![baymax](example.jpg)
+![baymax](Screenshoot.png)
 
 ## Tutorial
 
