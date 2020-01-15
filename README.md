@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 
 # React-Ui
 
@@ -57,6 +55,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [LINK](https://choosealicense.com/licenses/mit/)
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
