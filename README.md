@@ -1,3 +1,6 @@
+<snippet>
+  <content><![CDATA[
+
 # React-Ui
 
 template admin-lte untuk a belajat
@@ -10,7 +13,15 @@ npm start
 
 ================================================================
 
-#EXAMPLE README.MD
+# EXAMPLE README.MD
+
+## icon 
+
+:muscle:
+
+## image 
+
+![baymax](example.jpg)
 
 ## Tutorial
 
@@ -46,3 +57,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 [LINK](https://choosealicense.com/licenses/mit/)
+
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
