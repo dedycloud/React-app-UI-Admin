@@ -57,7 +57,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [LINK](https://choosealicense.com/licenses/mit/)
-
 ]]></content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
