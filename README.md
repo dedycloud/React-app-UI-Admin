@@ -1,29 +1,48 @@
 # React-Ui
 
-Foobar is a Python library for dealing with word pluralization.
+template admin-lte untuk a belajat
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Running
 
 ```bash
 npm start
 ```
 
-## Usage
+================================================================
+
+#EXAMPLE README.MD
+
+## Tutorial
+
+gunakan ini untuk link [Link](https://github.com/dedycloud/React-app-UI-Admin)
+
+```bash
+$ npm install
+```
+
+## example script
 
 ```javascript
 import foobar
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+fetchDataMenu = async (pageNumber ) => {
+    const data = await fetchMenu(pageNumber, '');
+    this.props.dispatch({...fetchMenuAction, payload: data})
+};
 ```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+gunakan ini untuk fokus pada script: `git checkout -b my-new-feature`
+
 Please make sure to update tests as appropriate.
 
+## list :
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
+
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[LINK](https://choosealicense.com/licenses/mit/)
